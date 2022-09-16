@@ -18,6 +18,12 @@ Check which port is used by NFS and open it using Security Groups (add new Inbou
 
 
 ## CONFIGURE THE DATABASE SERVER
+i install and configure a MySQL DBMS to work with remote Web Server
+
+Install MySQL server
+Create a database and name it tooling
+Create a database user and name it webaccess
+Grant permission to webaccess user on tooling database to do anything only from the webservers subnet cidr
 
 ![Capture2](https://user-images.githubusercontent.com/108102087/190636487-dc70a3f5-0537-4fbc-a37a-4d01e508d1b2.PNG)
 
@@ -35,3 +41,5 @@ Note 2: If you encounter 403 Error – check permissions to your /var/www/html f
 To make this change permanent – open following config file sudo vi /etc/sysconfig/selinux and set SELINUX=disabledthen restrt httpd.
 
 ![Capture6](https://user-images.githubusercontent.com/108102087/190679625-c1bcdc78-e782-4115-9414-4edd0a9285ea.PNG)
+
+![Capture7](https://user-images.githubusercontent.com/108102087/190713711-c9069eb9-4675-4844-83cf-2b4ac19f4a98.PNG)
