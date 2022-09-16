@@ -1,6 +1,9 @@
 # project-7
 ## DEVOPS TOOLING WEBSITE SOLUTION
 
+## prepare NFS server
+
+![Capture3](https://user-images.githubusercontent.com/108102087/190637352-f50bed96-7bdf-4d07-b257-b02a865f8494.PNG)
 
 
 ## CONFIGURE THE DATABASE SERVER
