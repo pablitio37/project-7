@@ -43,3 +43,5 @@ To make this change permanent – open following config file sudo vi /etc/syscon
 ![Capture6](https://user-images.githubusercontent.com/108102087/190679625-c1bcdc78-e782-4115-9414-4edd0a9285ea.PNG)
 
 ![Capture7](https://user-images.githubusercontent.com/108102087/190713711-c9069eb9-4675-4844-83cf-2b4ac19f4a98.PNG)
+
+![last text](https://user-images.githubusercontent.com/108102087/192879013-b3334ea2-2bc7-4aec-8061-fdfd958c2063.PNG)
